@@ -12,11 +12,11 @@
 
 Стартовое меню:
 
-![image](https://raw.githubusercontent.com/German-D/generation_file/main/static/menu.png)
+![image]()
 
 После выбора файла:
 
-![image](https://raw.githubusercontent.com/German-D/generation_file/main/static/generate.png)
+![image]()
 
 ## 💻 Технологии
 
